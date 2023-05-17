@@ -1,6 +1,6 @@
 # NFL-Betting-Analysis
 
-A few statistics classmates and I completed this data analysis project focused on the 2013 NFL season and aimed to answer four questions related to players, plays, and games. 
+This html file contains the integrated report and R code from a data analysis project focused on the 2013 NFL season and aimed to answer four questions related to players, plays, and games. 
 
 We examined whether the draft order affected Score Against Spread, analyzed how weather influenced offensive play selection, identified the best and worst quarterback of the season, and determined the most profitable betting category. 
 
